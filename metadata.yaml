@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '33934'
     url: http://www.gutenberg.org/2009/agents/33934
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29483#The-Little-Brown-Hen-Hears-the-Song-of-the-Nightingale--amp--The-Golden-Harvest
 gutenberg_issued: '2009-07-22'
 gutenberg_type: Text
 identifiers:
