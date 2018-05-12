@@ -1,0 +1,36 @@
+_repo: The-Little-Brown-Hen-Hears-the-Song-of-the-Nightingale--amp--The-Golden-Harvest_29483
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Dresser, William
+    aliases:
+    - Dresser, William Van
+    - Dresser, William T. Van
+    birthdate: 1871
+    deathdate: 1950
+    gutenberg_agent_id: '33935'
+    url: http://www.gutenberg.org/2009/agents/33935
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Dresser, Jasmine Stone
+    alias: Dresser, Jasmine Stone Van
+    birthdate: 1878
+    gutenberg_agent_id: '33934'
+    url: http://www.gutenberg.org/2009/agents/33934
+description: ''
+gutenberg_issued: '2009-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Little Brown Hen Hears the Song of the Nightingale & The Golden Harvest
+url: http://www.gutenberg.org/ebooks/29483
